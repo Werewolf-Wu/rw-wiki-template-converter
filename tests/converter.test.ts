@@ -121,6 +121,18 @@ test('zero, decimals, special food and hints are not treated as fractions', () =
   assert.ok(unknown.unresolved.some(item => item.kind === 'phrases' && item.source === 'Unrecorded hint'));
 });
 
+test('behavior uses the agreed five labels in both input languages', () => {
+  const values = [['Passive', '被动'], ['Fearful', '胆小'], ['Neutral', '中立'], ['Aggressive', '攻击性'], ['Reputation-based', '受好感影响']];
+  for (const [english, chinese] of values) {
+    for (const input of [english, chinese]) {
+      const result = convert(call('behavior=' + input));
+      assert.equal(field(result.output, 'behavior'), chinese);
+      assert.deepEqual(result.warnings, []);
+      assert.deepEqual(result.unresolved, []);
+    }
+  }
+});
+
 test('unknown fields, prose, names, regions and images survive with actionable warnings', () => {
   const result = convert(call('name=Unknown Creature|image=Unrecorded.png|behavior=Unrecorded behavior|regions=Unknown Place-Unknown Role|future={{Mystery|a=b}}|version=DP'));
   for (const [key, expected] of Object.entries({ name: 'Unknown Creature', image: 'Unrecorded.png', behavior: 'Unrecorded behavior', regions: 'Unknown Place-Unknown Role', future: '{{Mystery|a=b}}', version: 'DP' })) {

@@ -10,7 +10,7 @@
 - 地区：[Template:Region/Text/zh-hans 修订274375](https://rainworld.miraheze.org/w/index.php?title=Template:Region/Text/zh-hans&oldid=274375)，[作者历史](https://rainworld.miraheze.org/w/index.php?title=Template:Region/Text/zh-hans&action=history)。保留77个名称和明确别名；The Exterior 与 Outer Rim 使用不同中文名。
 - 角色：采用目标中文 CreatureInfobox 接口的13个名称和别名，包括 Inv、??? 对应怪猫。
 - 图片：仅记录 `Scavenger infobox image.png` 对应 `拾荒者信息盒展示.png`，不包含图片本身，也不授予游戏素材使用权。
-- 简短说明：内置 1 per Needle、Inedible、N/A 的中文对应。习性值采用用户在本项目提供的译名：Passive=被动、Fearful=胆小、Neutral=中立、Aggressive=攻击型、Reputation-based=受好感影响；不将这五项标成源站既定译法。
+- 简短说明：内置 1 per Needle、Inedible、N/A 的中文对应。习性值采用用户在本项目提供的译名：Passive=被动、Fearful=胆小、Neutral=中立、Aggressive=攻击性、Reputation-based=受好感影响；不将这五项标成源站既定译法。
 - 种间关系：采用 [Template:Relationship/Text/zh-hans](https://rainworld.miraheze.org/wiki/Template:Relationship/Text/zh-hans)（[作者历史](https://rainworld.miraheze.org/w/index.php?title=Template:Relationship/Text/zh-hans&action=history)）的十二项中文关系名，与灰机 [Relationships/data 修订813](https://rainworld.huijiwiki.com/index.php?title=模块:Relationships/data&oldid=813) 对齐。括号元数据来源于该冻结数据中的 Module:Unicode（User:LtDk，CC BY-SA 4.0）。该修订的数据副本保存在 `tests/fixtures/relationships-data-r813.lua`，仅用于测试；来源与用途见 `tests/fixtures/README.md`。
 - 种间关系示例和迁移调用取自灰机拾荒者修订1495、用户:Editor0440/沙盒修订814；对应的英文与中文示例保存在 `examples/relationships-*.wikitext`。转换只修改接口语言，不修改原权重或游戏关系事实。
 
