@@ -1,5 +1,7 @@
 # 雨世界 Wiki 模板转换器
 
+[![Pages](https://github.com/Werewolf-Wu/rw-wiki-template-converter/actions/workflows/pages.yml/badge.svg)](https://github.com/Werewolf-Wu/rw-wiki-template-converter/actions/workflows/pages.yml)
+
 源码仓库：<https://github.com/Werewolf-Wu/rw-wiki-template-converter>
 
 将英文站的 `{{CreatureInfobox}}` 或 `{{Relationships}}` 调用转成中文维基接口接受的代码。信息框参数名保持英文；种间关系使用中文关系键和生物名称。
