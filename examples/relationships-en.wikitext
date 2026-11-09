@@ -1,0 +1,10 @@
+{{Relationships
+|DLC=
+| Ignores (0.1)
+| SocialDependent = Slugcat (1), Slugcat NPC (1)
+| Afraid = Lizard (0.5), Vulture (0.75), Coalescipede (0.1), Leviathan (1), Daddy Long Legs (1), Brother Long Legs (0.8), Monster Kelp (0.65), Pole Plant (0.3), Miros Bird (0.7), Adult Centipede (0.4), Red Centipede (0.95), Big Spider (0.45), Dropwig (0.55), King Vulture (0.95), Miros Vulture (1), Stowaway (0.9), Giant Jellyfish (0.2), Hunter Long Legs (0.8), Drill Crab (0.4), Sand Worm (0.75), Big Moth (0.1), Box Worm (0.5), Loach (0.9), Angler (1)
+| Uncomfortable = Red Leech (0.5), Snail (0.6), Garbage Worm (0.8), Lantern Mouse (0.1), Adult Noodlefly (0.5), Barnacle (1), Rat (0.1), Frog (0.8)
+| Ignores = Infant Centipede (0), Infant Noodlefly (0), Ripple Spider (0)
+| Pack = Scavenger (0.5)
+| Attacks = Overseer (1), Inspector (1), Yeek (0.1), Firebug (1), Fire Sprite (0.5), Tardigrade (0.1)
+}}

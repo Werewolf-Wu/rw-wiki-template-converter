@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="zh-Hans">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>雨世界 Wiki 模板转换器</title>
+</head>
+<body>
+<main>
+  <header>
+    <h1>雨世界 Wiki 模板转换器</h1>
+    <p class="meta">单文件离线工具 · 不上传输入 · 不读取登录信息 · 不执行粘贴的维基代码</p>
+  </header>
+  <nav id="converter-tabs" class="converter-tabs" role="tablist" aria-label="选择转换器" hidden></nav>
+  <div id="converter-panel">
+    <h2 id="converter-title">CreatureInfobox 中文转换器</h2>
+    <p id="converter-description" class="intro">把英文站的信息框代码转成雨世界灰机 Wiki 的中文调用。</p>
+    <div id="status" class="status" role="status" aria-live="polite">粘贴一个完整的 {{CreatureInfobox …}}，然后点击“转换”。</div>
+    <div class="panes">
+      <section class="pane">
+        <div class="pane-head"><label id="source-label" for="source">英文站代码</label><span class="meta" id="source-count">0 字符</span></div>
+        <textarea id="source" spellcheck="false" placeholder="{{CreatureInfobox&#10;| name = Scavenger&#10;| image = Scavenger infobox image.png&#10;| food = 4-Hunter&#10;}}"></textarea>
+        <div class="actions"><button id="convert" class="primary" type="button">转换</button><button id="example" type="button">填入示例</button><button id="clear" type="button">清空</button></div>
+        <p class="meta">也可按 Ctrl + Enter（Mac 为 ⌘ + Enter）转换。只粘贴一个模板，不要粘贴整篇文章。</p>
+      </section>
+      <section class="pane">
+        <div class="pane-head"><label id="output-label" for="output">中文信息框代码</label><span class="meta" id="output-count">尚未转换</span></div>
+        <textarea id="output" spellcheck="false" placeholder="转换结果会显示在这里，可继续手动修改。"></textarea>
+        <div class="actions"><button id="copy" type="button" disabled>复制结果</button><button id="download" type="button" disabled>下载 .wikitext</button></div>
+        <p class="meta">生成的代码需要本站已部署的相应模块、模板和样式。红链不代表转换失败，离线工具不能确认线上文件与页面是否存在。</p>
+      </section>
+    </div>
+    <section id="review" class="review" hidden aria-labelledby="review-title">
+      <h2 id="review-title">发布前请核对</h2>
+      <ul id="warnings"></ul>
+      <div id="mapping-panel" hidden>
+        <h3>补充名称对应</h3>
+        <p class="meta">填写您确认的中文名称或站内文件名后，点击重新转换。每个转换器的输入、结果和对应关系单独保留，仅在本次打开期间有效，不会写入词典。种间关系的名称还必须由站内数据模块识别，网页补充对应不会修改站内数据。</p>
+        <div id="mappings"></div>
+        <div class="actions"><button id="apply" type="button">应用对应关系并重新转换</button></div>
+      </div>
+    </section>
+    <details id="creature-infobox-help">
+      <summary>CreatureInfobox 转换范围与使用注意</summary>
+      <ul>
+        <li>处理当前中文模板的47个参数。保留代码名称、数值、伤害倍率、地图链接及参数顺序，不根据游戏常识补写刷新数据。</li>
+        <li>支持角色列表、10类地区参数，以及常见的 <code>Head</code>、<code>NoHead</code>、<code>Unlock|Sandbox</code>、DLC标记。复杂或未收录模板保留原文并提示，不保证在灰机可用。</li>
+        <li>源模板的 <code>version</code>、地区中的旧DLC标记等不能直接套用到中文接口。遇到这些内容，请按提示整理，不要直接发布。</li>
+        <li>目前仅内置拾荒者展示图的已核实英文到中文文件名对应。其他图片保留原值供核对，不能通过翻译文件名来代替上传文件。</li>
+        <li>没有给出 <code>name</code> 时，工具没有原页面标题可供推断。请确认目标页面的默认名称是否合适。</li>
+        <li>饱食格的 <code>1/1 per Needle-Spearmaster</code> 会转成 <code>1/每根针获得1格-矛大师</code>，不会当作分数运算。</li>
+        <li>只提供代码转换，不预览或执行维基模板。转换后仍应在站点沙盒检查。手动修改右侧结果后，不要再次转换，除非希望重新生成。</li>
+      </ul>
+    </details>
+    <details id="relationships-help" hidden>
+      <summary>种间关系转换范围与使用注意</summary>
+      <ul>
+        <li>把默认关系转成 <code>默认=</code>，十二种关系键和生物名称转成中文；保留权重和列表次序。</li>
+        <li><code>DLC</code> 的值使用“任意”“倾盆大雨”“观望者”，多个值用英文逗号分隔。含义仍是最低内容需求，不是隐藏其他版本生物的筛选开关。</li>
+        <li>目标站须部署中文输入版 Relationships。旧英文调用也需同步转换，不能仅替换模块。</li>
+        <li>未知项保留并提示，冲突和结构错误会阻止转换。没有正式中文名的项目保留规范名称，不编造译名。输出不计算或改写生物关系。</li>
+      </ul>
+    </details>
+  </div>
+  <footer>
+    <p>本工具新增代码采用 MIT 许可证。导入的中文译名、映射和示例中的改编 Wiki 内容不属于 MIT 授权范围，按下述来源许可单独提供。</p>
+    <p>源码与问题反馈：<a href="https://github.com/Werewolf-Wu/rw-wiki-template-converter" target="_blank" rel="noopener noreferrer">GitHub 仓库</a>。名称依据本工具冻结的雨世界 Wiki 中文映射。<span id="dictionary-count"></span> 页面或译名可能后续调整，请以本站实际命名为准。</p>
+    <p>来源：<a href="https://rainworld.miraheze.org/w/index.php?title=Template:CreatureInfobox&amp;oldid=317625" target="_blank" rel="noopener noreferrer">CreatureInfobox 317625</a>、<a href="https://rainworld.miraheze.org/w/index.php?title=Template:Region/Text/zh-hans&amp;oldid=274375" target="_blank" rel="noopener noreferrer">地区中文译名 274375</a>、<a href="https://rainworld.miraheze.org/w/index.php?title=Template:Creature/Text/zh-hans&amp;oldid=330846" target="_blank" rel="noopener noreferrer">生物中文译名 330846</a>及对应页面的作者历史。改编文字与映射按 <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a> 提供；游戏素材权利另计。打开来源链接会访问外部网站，转换过程本身不联网。</p>
+    <p>种间关系译名：<a href="https://rainworld.miraheze.org/wiki/Template:Relationship/Text/zh-hans" target="_blank" rel="noopener noreferrer">Relationship/Text/zh-hans</a>；关系与括号元数据依据灰机 <a href="https://rainworld.huijiwiki.com/index.php?title=模块:Relationships/data&amp;oldid=813" target="_blank" rel="noopener noreferrer">Relationships/data 813</a>，来源含 Module:Unicode（LtDk）。习性值采用本项目用户推荐的五项译名。</p>
+    <details><summary>工具代码 MIT 许可证全文（不含导入的 Wiki 数据）</summary><pre id="code-license"></pre></details>
+  </footer>
+  <noscript><p class="status">请启用 JavaScript 后使用本地转换器。输入不会上传。</p></noscript>
+</main>
+<script type="module" src="/src/main.ts"></script>
+</body>
+</html>

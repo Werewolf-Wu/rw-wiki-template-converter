@@ -1,0 +1,19 @@
+{{CreatureInfobox
+| name = Scavenger
+| image = Scavenger infobox image.png
+| icon = Scavenger
+| codename = Scavenger
+| behavior = Reputation-based
+| health = 1.1
+| idt = 1.65
+| points = 6
+| token = {{Unlock|Sandbox}} [https://rain-world-downpour-map.github.io/map.html?slugcat=white&region=GW&room=GW_A24 GW_A24] {{noDLC}}{{Head|Slugcat}}/{{MSC}}{{NoHead|Hunter|Artificer}}
+| food = 4-Hunter<br>4-Artificer<br>2-Gourmand, Inv<br>1/1 per Needle-Spearmaster
+| regions = Outskirts, Industrial Complex, Drainage System, Garbage Wastes, Shaded Citadel, Chimney Canopy, Sky Islands, Farm Arrays, Subterranean-Slugcat
+| dpregions = Outskirts, Industrial Complex, Drainage System, Garbage Wastes, Shaded Citadel, Chimney Canopy, Sky Islands, Farm Arrays, Subterranean, Pipeyard, Submerged Superstructure-Slugcat<br>Outer Expanse-Survivor, Monk<br>Shoreline-Hunter<br>Shoreline, Outer Expanse-Gourmand<br>The Exterior, Waterfront Facility, Metropolis-Artificer<br>The Exterior, Waterfront Facility-Spearmaster<br>Undergrowth, Silent Construct-Saint
+| nregions = Outer Expanse-Monk, Survivor, Gourmand
+| dplregions = Chimney Canopy-Survivor, Gourmand<br>Garbage Wastes-Hunter
+| wregions = Outskirts, Industrial Complex, Shaded Citadel, Chimney Canopy, Coral Caves, Sunbaked Alley, Rusted Wrecks, Pillar Grove, Aether Ridge, The Surface, Badlands, Shrouded Stacks, Stormy Coast, Torrid Desert, Signal Spires, Fetid Glen, Corrupted Factories-Watcher
+| wlregions = Chimney Canopy-Watcher
+| head = 13x
+}}

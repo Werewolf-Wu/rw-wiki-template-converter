@@ -1,0 +1,273 @@
+{
+  "warnings": {
+    "parse": {
+      "warnings": "Property \"modules\" was set but not \"jsconfigvars\" or \"encodedjsconfigvars\". Configuration variables are necessary for proper module usage."
+    }
+  },
+  "parse": {
+    "title": "用户:Editor0440/沙盒",
+    "pageid": 680,
+    "text": "<div class=\"mw-parser-output\"><table class=\"infobox rw-infobox\" cellspacing=\"3\" style=\"border-collapse:separate;border-spacing:2px;\"><tbody><tr class=\"infobox-title\"><th colspan=\"2\" class=\"rw-infobox-title\" style=\"padding:8px;\"><img alt=\"拾荒者 图标.png\" src=\"https://huiji-thumb.huijistatic.com/rainworld/uploads/thumb/e/e3/%E6%8B%BE%E8%8D%92%E8%80%85_%E5%9B%BE%E6%A0%87.png/20px-%E6%8B%BE%E8%8D%92%E8%80%85_%E5%9B%BE%E6%A0%87.png\" decoding=\"async\" width=\"20\" height=\"22\" srcset=\"https://huiji-public.huijistatic.com/rainworld/uploads/e/e3/%E6%8B%BE%E8%8D%92%E8%80%85_%E5%9B%BE%E6%A0%87.png 1.5x\" data-file-width=\"22\" data-file-height=\"24\" /> 拾荒者</th></tr><tr><td colspan=\"2\" class=\"rw-infobox-image\" style=\"text-align:center;\">\n<span style=\"image-rendering:auto\"><a href=\"/wiki/%E6%96%87%E4%BB%B6:%E6%8B%BE%E8%8D%92%E8%80%85%E4%BF%A1%E6%81%AF%E7%9B%92%E5%B1%95%E7%A4%BA.png\" class=\"image\"><img alt=\"拾荒者信息盒展示.png\" src=\"https://huiji-public.huijistatic.com/rainworld/uploads/7/7b/%E6%8B%BE%E8%8D%92%E8%80%85%E4%BF%A1%E6%81%AF%E7%9B%92%E5%B1%95%E7%A4%BA.png\" decoding=\"async\" width=\"100\" height=\"100\" data-file-width=\"100\" data-file-height=\"100\" /></a></span></td></tr><tr class=\"infobox-header\"><th colspan=\"2\" class=\"rw-infobox-header\" style=\"padding:8px;\">信息</th></tr><tr><th scope=\"row\" class=\"infobox-label\" style=\"width:90px;\">代码名称</th><td class=\"infobox-data\">\nScavenger</td></tr><tr><th scope=\"row\" class=\"infobox-label\" style=\"width:90px;\"><a href=\"/index.php?title=%E8%A1%8C%E4%B8%BA&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"行为（页面不存在）\">习性</a></th><td class=\"infobox-data\">\n基于好感</td></tr><tr><th scope=\"row\" class=\"infobox-label\" style=\"width:90px;\"><a href=\"/index.php?title=%E7%94%9F%E5%91%BD%E5%80%BC&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"生命值（页面不存在）\">生命值</a></th><td class=\"infobox-data\">\n1.1</td></tr><tr><th scope=\"row\" class=\"infobox-label\" style=\"width:90px;\"><a href=\"/index.php?title=%E7%94%9F%E5%91%BD%E5%80%BC&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"生命值（页面不存在）\">即死阈值</a></th><td class=\"infobox-data\">\n1.65</td></tr><tr><th scope=\"row\" class=\"infobox-label\" style=\"width:90px;\"><a href=\"/index.php?title=%E5%88%86%E6%95%B0&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"分数（页面不存在）\">击杀分数</a></th><td class=\"infobox-data\">\n6</td></tr><tr><th scope=\"row\" class=\"infobox-label\" style=\"width:90px;\"><a href=\"/index.php?title=%E7%AB%9E%E6%8A%80%E5%9C%BA&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"竞技场（页面不存在）\">代币</a></th><td class=\"infobox-data\">\n<img alt=\"沙盒代币 图标.png\" src=\"https://huiji-thumb.huijistatic.com/rainworld/uploads/thumb/3/36/%E6%B2%99%E7%9B%92%E4%BB%A3%E5%B8%81_%E5%9B%BE%E6%A0%87.png/20px-%E6%B2%99%E7%9B%92%E4%BB%A3%E5%B8%81_%E5%9B%BE%E6%A0%87.png\" decoding=\"async\" width=\"20\" height=\"20\" srcset=\"https://huiji-public.huijistatic.com/rainworld/uploads/3/36/%E6%B2%99%E7%9B%92%E4%BB%A3%E5%B8%81_%E5%9B%BE%E6%A0%87.png 1.5x\" data-file-width=\"23\" data-file-height=\"23\" /> <a target=\"_blank\" rel=\"nofollow noreferrer noopener\" class=\"external text\" href=\"https://rain-world-downpour-map.github.io/map.html?slugcat=white&amp;region=GW&amp;room=GW_A24\">GW_A24</a> <img alt=\"禁用任意DLC\" src=\"https://huiji-public.huijistatic.com/rainworld/uploads/9/91/%E7%A6%81%E7%94%A8DLC_%E5%9B%BE%E6%A0%87.png\" decoding=\"async\" title=\"禁用任意DLC\" width=\"29\" height=\"17\" data-file-width=\"29\" data-file-height=\"17\" /><img alt=\"蛞蝓猫 图标.png\" src=\"https://huiji-thumb.huijistatic.com/rainworld/uploads/thumb/3/3c/%E8%9B%9E%E8%9D%93%E7%8C%AB_%E5%9B%BE%E6%A0%87.png/20px-%E8%9B%9E%E8%9D%93%E7%8C%AB_%E5%9B%BE%E6%A0%87.png\" decoding=\"async\" width=\"20\" height=\"20\" srcset=\"https://huiji-public.huijistatic.com/rainworld/uploads/3/3c/%E8%9B%9E%E8%9D%93%E7%8C%AB_%E5%9B%BE%E6%A0%87.png 1.5x\" data-file-width=\"24\" data-file-height=\"24\" />任意<a href=\"/wiki/%E8%9B%9E%E8%9D%93%E7%8C%AB\" title=\"蛞蝓猫\">蛞蝓猫</a>/<a href=\"/wiki/%E9%9B%A8%E4%B8%96%E7%95%8C%EF%BC%9A%E5%80%BE%E7%9B%86%E5%A4%A7%E9%9B%A8\" title=\"启用更多蛞蝓猫扩展包\"><img alt=\"启用更多蛞蝓猫扩展包\" src=\"https://huiji-public.huijistatic.com/rainworld/uploads/b/b8/MSC_%E5%9B%BE%E6%A0%87.png\" decoding=\"async\" width=\"35\" height=\"17\" data-file-width=\"35\" data-file-height=\"17\" /></a><img alt=\"禁用猎手 图标.png\" src=\"https://huiji-thumb.huijistatic.com/rainworld/uploads/thumb/4/42/%E7%A6%81%E7%94%A8%E7%8C%8E%E6%89%8B_%E5%9B%BE%E6%A0%87.png/20px-%E7%A6%81%E7%94%A8%E7%8C%8E%E6%89%8B_%E5%9B%BE%E6%A0%87.png\" decoding=\"async\" width=\"20\" height=\"20\" srcset=\"https://huiji-public.huijistatic.com/rainworld/uploads/4/42/%E7%A6%81%E7%94%A8%E7%8C%8E%E6%89%8B_%E5%9B%BE%E6%A0%87.png 1.5x\" data-file-width=\"24\" data-file-height=\"24\" /><img alt=\"禁用工匠 图标.png\" src=\"https://huiji-thumb.huijistatic.com/rainworld/uploads/thumb/c/c1/%E7%A6%81%E7%94%A8%E5%B7%A5%E5%8C%A0_%E5%9B%BE%E6%A0%87.png/20px-%E7%A6%81%E7%94%A8%E5%B7%A5%E5%8C%A0_%E5%9B%BE%E6%A0%87.png\" decoding=\"async\" width=\"20\" height=\"20\" srcset=\"https://huiji-public.huijistatic.com/rainworld/uploads/c/c1/%E7%A6%81%E7%94%A8%E5%B7%A5%E5%8C%A0_%E5%9B%BE%E6%A0%87.png 1.5x\" data-file-width=\"24\" data-file-height=\"24\" />除<a href=\"/wiki/%E7%8C%8E%E6%89%8B\" title=\"猎手\">猎手</a>、<a href=\"/wiki/%E5%B7%A5%E5%8C%A0\" title=\"工匠\">工匠</a>外</td></tr><tr class=\"infobox-header\"><th colspan=\"2\" class=\"rw-infobox-header\" style=\"padding:8px;\">饱食格</th></tr><tr><td colspan=\"2\" style=\"text-align:center;\">\n<div class=\"rw-infobox-food-line\"><img alt=\"满饱食格 图标.png\" src=\"https://huiji-thumb.huijistatic.com/rainworld/uploads/thumb/f/f5/%E6%BB%A1%E9%A5%B1%E9%A3%9F%E6%A0%BC_%E5%9B%BE%E6%A0%87.png/20px-%E6%BB%A1%E9%A5%B1%E9%A3%9F%E6%A0%BC_%E5%9B%BE%E6%A0%87.png\" decoding=\"async\" width=\"20\" height=\"19\" srcset=\"https://huiji-public.huijistatic.com/rainworld/uploads/f/f5/%E6%BB%A1%E9%A5%B1%E9%A3%9F%E6%A0%BC_%E5%9B%BE%E6%A0%87.png 1.5x\" data-file-width=\"25\" data-file-height=\"24\" />4：<img alt=\"猎手 图标.png\" src=\"https://huiji-thumb.huijistatic.com/rainworld/uploads/thumb/c/ce/%E7%8C%8E%E6%89%8B_%E5%9B%BE%E6%A0%87.png/20px-%E7%8C%8E%E6%89%8B_%E5%9B%BE%E6%A0%87.png\" decoding=\"async\" width=\"20\" height=\"20\" srcset=\"https://huiji-public.huijistatic.com/rainworld/uploads/c/ce/%E7%8C%8E%E6%89%8B_%E5%9B%BE%E6%A0%87.png 1.5x\" data-file-width=\"24\" data-file-height=\"24\" /><a href=\"/wiki/%E7%8C%8E%E6%89%8B\" title=\"猎手\">猎手</a></div><div class=\"rw-infobox-food-line\"><img alt=\"满饱食格 图标.png\" src=\"https://huiji-thumb.huijistatic.com/rainworld/uploads/thumb/f/f5/%E6%BB%A1%E9%A5%B1%E9%A3%9F%E6%A0%BC_%E5%9B%BE%E6%A0%87.png/20px-%E6%BB%A1%E9%A5%B1%E9%A3%9F%E6%A0%BC_%E5%9B%BE%E6%A0%87.png\" decoding=\"async\" width=\"20\" height=\"19\" srcset=\"https://huiji-public.huijistatic.com/rainworld/uploads/f/f5/%E6%BB%A1%E9%A5%B1%E9%A3%9F%E6%A0%BC_%E5%9B%BE%E6%A0%87.png 1.5x\" data-file-width=\"25\" data-file-height=\"24\" />4：<img alt=\"工匠 图标.png\" src=\"https://huiji-thumb.huijistatic.com/rainworld/uploads/thumb/5/52/%E5%B7%A5%E5%8C%A0_%E5%9B%BE%E6%A0%87.png/20px-%E5%B7%A5%E5%8C%A0_%E5%9B%BE%E6%A0%87.png\" decoding=\"async\" width=\"20\" height=\"20\" srcset=\"https://huiji-public.huijistatic.com/rainworld/uploads/5/52/%E5%B7%A5%E5%8C%A0_%E5%9B%BE%E6%A0%87.png 1.5x\" data-file-width=\"24\" data-file-height=\"24\" /><a href=\"/wiki/%E5%B7%A5%E5%8C%A0\" title=\"工匠\">工匠</a><a href=\"/wiki/%E9%9B%A8%E4%B8%96%E7%95%8C%EF%BC%9A%E5%80%BE%E7%9B%86%E5%A4%A7%E9%9B%A8\" title=\"启用更多蛞蝓猫扩展包\"><img alt=\"启用更多蛞蝓猫扩展包\" src=\"https://huiji-public.huijistatic.com/rainworld/uploads/b/b8/MSC_%E5%9B%BE%E6%A0%87.png\" decoding=\"async\" width=\"35\" height=\"17\" data-file-width=\"35\" data-file-height=\"17\" /></a></div><div class=\"rw-infobox-food-line\"><img alt=\"满饱食格 图标.png\" src=\"https://huiji-thumb.huijistatic.com/rainworld/uploads/thumb/f/f5/%E6%BB%A1%E9%A5%B1%E9%A3%9F%E6%A0%BC_%E5%9B%BE%E6%A0%87.png/20px-%E6%BB%A1%E9%A5%B1%E9%A3%9F%E6%A0%BC_%E5%9B%BE%E6%A0%87.png\" decoding=\"async\" width=\"20\" height=\"19\" srcset=\"https://huiji-public.huijistatic.com/rainworld/uploads/f/f5/%E6%BB%A1%E9%A5%B1%E9%A3%9F%E6%A0%BC_%E5%9B%BE%E6%A0%87.png 1.5x\" data-file-width=\"25\" data-file-height=\"24\" />2：<img alt=\"饕餮 图标.png\" src=\"https://huiji-thumb.huijistatic.com/rainworld/uploads/thumb/8/80/%E9%A5%95%E9%A4%AE_%E5%9B%BE%E6%A0%87.png/20px-%E9%A5%95%E9%A4%AE_%E5%9B%BE%E6%A0%87.png\" decoding=\"async\" width=\"20\" height=\"20\" srcset=\"https://huiji-public.huijistatic.com/rainworld/uploads/8/80/%E9%A5%95%E9%A4%AE_%E5%9B%BE%E6%A0%87.png 1.5x\" data-file-width=\"24\" data-file-height=\"24\" /><a href=\"/wiki/%E9%A5%95%E9%A4%AE\" title=\"饕餮\">饕餮</a>、<img alt=\"怪猫 图标.png\" src=\"https://huiji-thumb.huijistatic.com/rainworld/uploads/thumb/4/4e/%E6%80%AA%E7%8C%AB_%E5%9B%BE%E6%A0%87.png/20px-%E6%80%AA%E7%8C%AB_%E5%9B%BE%E6%A0%87.png\" decoding=\"async\" width=\"20\" height=\"20\" srcset=\"https://huiji-public.huijistatic.com/rainworld/uploads/4/4e/%E6%80%AA%E7%8C%AB_%E5%9B%BE%E6%A0%87.png 1.5x\" data-file-width=\"24\" data-file-height=\"24\" /><a href=\"/index.php?title=%E6%80%AA%E7%8C%AB&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"怪猫（页面不存在）\">怪猫</a><a href=\"/wiki/%E9%9B%A8%E4%B8%96%E7%95%8C%EF%BC%9A%E5%80%BE%E7%9B%86%E5%A4%A7%E9%9B%A8\" title=\"启用更多蛞蝓猫扩展包\"><img alt=\"启用更多蛞蝓猫扩展包\" src=\"https://huiji-public.huijistatic.com/rainworld/uploads/b/b8/MSC_%E5%9B%BE%E6%A0%87.png\" decoding=\"async\" width=\"35\" height=\"17\" data-file-width=\"35\" data-file-height=\"17\" /></a></div><div class=\"rw-infobox-food-line\"><span title=\"每根针获得1格\"><img alt=\"满饱食格 图标.png\" src=\"https://huiji-thumb.huijistatic.com/rainworld/uploads/thumb/f/f5/%E6%BB%A1%E9%A5%B1%E9%A3%9F%E6%A0%BC_%E5%9B%BE%E6%A0%87.png/20px-%E6%BB%A1%E9%A5%B1%E9%A3%9F%E6%A0%BC_%E5%9B%BE%E6%A0%87.png\" decoding=\"async\" width=\"20\" height=\"19\" srcset=\"https://huiji-public.huijistatic.com/rainworld/uploads/f/f5/%E6%BB%A1%E9%A5%B1%E9%A3%9F%E6%A0%BC_%E5%9B%BE%E6%A0%87.png 1.5x\" data-file-width=\"25\" data-file-height=\"24\" />1</span><small class=\"rw-infobox-food-hint\">（每根针获得1格）</small>：<img alt=\"矛大师 图标.png\" src=\"https://huiji-thumb.huijistatic.com/rainworld/uploads/thumb/3/39/%E7%9F%9B%E5%A4%A7%E5%B8%88_%E5%9B%BE%E6%A0%87.png/20px-%E7%9F%9B%E5%A4%A7%E5%B8%88_%E5%9B%BE%E6%A0%87.png\" decoding=\"async\" width=\"20\" height=\"20\" srcset=\"https://huiji-public.huijistatic.com/rainworld/uploads/3/39/%E7%9F%9B%E5%A4%A7%E5%B8%88_%E5%9B%BE%E6%A0%87.png 1.5x\" data-file-width=\"24\" data-file-height=\"24\" /><a href=\"/wiki/%E7%9F%9B%E5%A4%A7%E5%B8%88\" title=\"矛大师\">矛大师</a><a href=\"/wiki/%E9%9B%A8%E4%B8%96%E7%95%8C%EF%BC%9A%E5%80%BE%E7%9B%86%E5%A4%A7%E9%9B%A8\" title=\"启用更多蛞蝓猫扩展包\"><img alt=\"启用更多蛞蝓猫扩展包\" src=\"https://huiji-public.huijistatic.com/rainworld/uploads/b/b8/MSC_%E5%9B%BE%E6%A0%87.png\" decoding=\"async\" width=\"35\" height=\"17\" data-file-width=\"35\" data-file-height=\"17\" /></a></div></td></tr><tr><td colspan=\"2\" style=\"text-align:center;\">\n<table class=\"rw-infobox-section mw-collapsible mw-collapsed\"><tbody><tr><th colspan=\"2\">区域（本体）</th></tr><tr><th scope=\"row\"><img alt=\"蛞蝓猫 图标.png\" src=\"https://huiji-thumb.huijistatic.com/rainworld/uploads/thumb/3/3c/%E8%9B%9E%E8%9D%93%E7%8C%AB_%E5%9B%BE%E6%A0%87.png/20px-%E8%9B%9E%E8%9D%93%E7%8C%AB_%E5%9B%BE%E6%A0%87.png\" decoding=\"async\" width=\"20\" height=\"20\" srcset=\"https://huiji-public.huijistatic.com/rainworld/uploads/3/3c/%E8%9B%9E%E8%9D%93%E7%8C%AB_%E5%9B%BE%E6%A0%87.png 1.5x\" data-file-width=\"24\" data-file-height=\"24\" /><a href=\"/wiki/%E8%9B%9E%E8%9D%93%E7%8C%AB\" title=\"蛞蝓猫\">蛞蝓猫</a></th><td><a href=\"/index.php?title=%E9%83%8A%E5%8C%BA&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"郊区（页面不存在）\">郊区</a>、<a href=\"/index.php?title=%E5%B7%A5%E4%B8%9A%E5%8C%BA&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"工业区（页面不存在）\">工业区</a>、<a href=\"/index.php?title=%E6%8E%92%E6%B0%B4%E7%B3%BB%E7%BB%9F&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"排水系统（页面不存在）\">排水系统</a>、<a href=\"/index.php?title=%E5%9E%83%E5%9C%BE%E5%A0%86&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"垃圾堆（页面不存在）\">垃圾堆</a>、<a href=\"/index.php?title=%E9%98%B4%E5%BD%B1%E5%9F%8E%E5%A0%A1&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"阴影城堡（页面不存在）\">阴影城堡</a>、<a href=\"/index.php?title=%E7%83%9F%E5%9B%B1%E5%A4%A9%E6%A3%9A&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"烟囱天棚（页面不存在）\">烟囱天棚</a>、<a href=\"/index.php?title=%E5%A4%A9%E7%A9%BA%E7%BE%A4%E5%B2%9B&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"天空群岛（页面不存在）\">天空群岛</a>、<a href=\"/index.php?title=%E5%86%9C%E5%9C%BA%E9%98%B5%E5%88%97&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"农场阵列（页面不存在）\">农场阵列</a>、<a href=\"/index.php?title=%E5%9C%B0%E4%B8%8B&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"地下（页面不存在）\">地下</a></td></tr></tbody></table></td></tr><tr><td colspan=\"2\" style=\"text-align:center;\">\n<table class=\"rw-infobox-section mw-collapsible mw-collapsed\"><tbody><tr><th colspan=\"2\">区域（倾盆大雨）</th></tr><tr><th scope=\"row\"><img alt=\"蛞蝓猫 图标.png\" src=\"https://huiji-thumb.huijistatic.com/rainworld/uploads/thumb/3/3c/%E8%9B%9E%E8%9D%93%E7%8C%AB_%E5%9B%BE%E6%A0%87.png/20px-%E8%9B%9E%E8%9D%93%E7%8C%AB_%E5%9B%BE%E6%A0%87.png\" decoding=\"async\" width=\"20\" height=\"20\" srcset=\"https://huiji-public.huijistatic.com/rainworld/uploads/3/3c/%E8%9B%9E%E8%9D%93%E7%8C%AB_%E5%9B%BE%E6%A0%87.png 1.5x\" data-file-width=\"24\" data-file-height=\"24\" /><a href=\"/wiki/%E8%9B%9E%E8%9D%93%E7%8C%AB\" title=\"蛞蝓猫\">蛞蝓猫</a></th><td><a href=\"/index.php?title=%E9%83%8A%E5%8C%BA&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"郊区（页面不存在）\">郊区</a>、<a href=\"/index.php?title=%E5%B7%A5%E4%B8%9A%E5%8C%BA&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"工业区（页面不存在）\">工业区</a>、<a href=\"/index.php?title=%E6%8E%92%E6%B0%B4%E7%B3%BB%E7%BB%9F&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"排水系统（页面不存在）\">排水系统</a>、<a href=\"/index.php?title=%E5%9E%83%E5%9C%BE%E5%A0%86&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"垃圾堆（页面不存在）\">垃圾堆</a>、<a href=\"/index.php?title=%E9%98%B4%E5%BD%B1%E5%9F%8E%E5%A0%A1&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"阴影城堡（页面不存在）\">阴影城堡</a>、<a href=\"/index.php?title=%E7%83%9F%E5%9B%B1%E5%A4%A9%E6%A3%9A&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"烟囱天棚（页面不存在）\">烟囱天棚</a>、<a href=\"/index.php?title=%E5%A4%A9%E7%A9%BA%E7%BE%A4%E5%B2%9B&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"天空群岛（页面不存在）\">天空群岛</a>、<a href=\"/index.php?title=%E5%86%9C%E5%9C%BA%E9%98%B5%E5%88%97&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"农场阵列（页面不存在）\">农场阵列</a>、<a href=\"/index.php?title=%E5%9C%B0%E4%B8%8B&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"地下（页面不存在）\">地下</a>、<a href=\"/index.php?title=%E7%AE%A1%E9%81%93%E5%A0%86%E5%9C%BA&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"管道堆场（页面不存在）\">管道堆场</a>、<a href=\"/index.php?title=%E8%A2%AB%E6%B5%B8%E6%B2%A1%E7%9A%84%E5%B7%A8%E6%9E%84%E5%BB%BA%E7%AD%91&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"被浸没的巨构建筑（页面不存在）\">被浸没的巨构建筑</a></td></tr><tr><th scope=\"row\"><img alt=\"求生者 图标.png\" src=\"https://huiji-thumb.huijistatic.com/rainworld/uploads/thumb/f/fb/%E6%B1%82%E7%94%9F%E8%80%85_%E5%9B%BE%E6%A0%87.png/20px-%E6%B1%82%E7%94%9F%E8%80%85_%E5%9B%BE%E6%A0%87.png\" decoding=\"async\" width=\"20\" height=\"20\" srcset=\"https://huiji-public.huijistatic.com/rainworld/uploads/f/fb/%E6%B1%82%E7%94%9F%E8%80%85_%E5%9B%BE%E6%A0%87.png 1.5x\" data-file-width=\"24\" data-file-height=\"24\" /><a href=\"/wiki/%E6%B1%82%E7%94%9F%E8%80%85\" title=\"求生者\">求生者</a>、<img alt=\"僧侣 图标.png\" src=\"https://huiji-thumb.huijistatic.com/rainworld/uploads/thumb/e/e4/%E5%83%A7%E4%BE%A3_%E5%9B%BE%E6%A0%87.png/20px-%E5%83%A7%E4%BE%A3_%E5%9B%BE%E6%A0%87.png\" decoding=\"async\" width=\"20\" height=\"20\" srcset=\"https://huiji-public.huijistatic.com/rainworld/uploads/e/e4/%E5%83%A7%E4%BE%A3_%E5%9B%BE%E6%A0%87.png 1.5x\" data-file-width=\"24\" data-file-height=\"24\" /><a href=\"/wiki/%E5%83%A7%E4%BE%A3\" title=\"僧侣\">僧侣</a></th><td><a href=\"/index.php?title=%E5%A4%96%E5%B1%82%E7%A9%BA%E9%97%B4&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"外层空间（页面不存在）\">外层空间</a></td></tr><tr><th scope=\"row\"><img alt=\"猎手 图标.png\" src=\"https://huiji-thumb.huijistatic.com/rainworld/uploads/thumb/c/ce/%E7%8C%8E%E6%89%8B_%E5%9B%BE%E6%A0%87.png/20px-%E7%8C%8E%E6%89%8B_%E5%9B%BE%E6%A0%87.png\" decoding=\"async\" width=\"20\" height=\"20\" srcset=\"https://huiji-public.huijistatic.com/rainworld/uploads/c/ce/%E7%8C%8E%E6%89%8B_%E5%9B%BE%E6%A0%87.png 1.5x\" data-file-width=\"24\" data-file-height=\"24\" /><a href=\"/wiki/%E7%8C%8E%E6%89%8B\" title=\"猎手\">猎手</a></th><td><a href=\"/index.php?title=%E6%B5%B7%E5%B2%B8%E7%BA%BF&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"海岸线（页面不存在）\">海岸线</a></td></tr><tr><th scope=\"row\"><img alt=\"饕餮 图标.png\" src=\"https://huiji-thumb.huijistatic.com/rainworld/uploads/thumb/8/80/%E9%A5%95%E9%A4%AE_%E5%9B%BE%E6%A0%87.png/20px-%E9%A5%95%E9%A4%AE_%E5%9B%BE%E6%A0%87.png\" decoding=\"async\" width=\"20\" height=\"20\" srcset=\"https://huiji-public.huijistatic.com/rainworld/uploads/8/80/%E9%A5%95%E9%A4%AE_%E5%9B%BE%E6%A0%87.png 1.5x\" data-file-width=\"24\" data-file-height=\"24\" /><a href=\"/wiki/%E9%A5%95%E9%A4%AE\" title=\"饕餮\">饕餮</a><a href=\"/wiki/%E9%9B%A8%E4%B8%96%E7%95%8C%EF%BC%9A%E5%80%BE%E7%9B%86%E5%A4%A7%E9%9B%A8\" title=\"启用更多蛞蝓猫扩展包\"><img alt=\"启用更多蛞蝓猫扩展包\" src=\"https://huiji-public.huijistatic.com/rainworld/uploads/b/b8/MSC_%E5%9B%BE%E6%A0%87.png\" decoding=\"async\" width=\"35\" height=\"17\" data-file-width=\"35\" data-file-height=\"17\" /></a></th><td><a href=\"/index.php?title=%E6%B5%B7%E5%B2%B8%E7%BA%BF&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"海岸线（页面不存在）\">海岸线</a>、<a href=\"/index.php?title=%E5%A4%96%E5%B1%82%E7%A9%BA%E9%97%B4&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"外层空间（页面不存在）\">外层空间</a></td></tr><tr><th scope=\"row\"><img alt=\"工匠 图标.png\" src=\"https://huiji-thumb.huijistatic.com/rainworld/uploads/thumb/5/52/%E5%B7%A5%E5%8C%A0_%E5%9B%BE%E6%A0%87.png/20px-%E5%B7%A5%E5%8C%A0_%E5%9B%BE%E6%A0%87.png\" decoding=\"async\" width=\"20\" height=\"20\" srcset=\"https://huiji-public.huijistatic.com/rainworld/uploads/5/52/%E5%B7%A5%E5%8C%A0_%E5%9B%BE%E6%A0%87.png 1.5x\" data-file-width=\"24\" data-file-height=\"24\" /><a href=\"/wiki/%E5%B7%A5%E5%8C%A0\" title=\"工匠\">工匠</a><a href=\"/wiki/%E9%9B%A8%E4%B8%96%E7%95%8C%EF%BC%9A%E5%80%BE%E7%9B%86%E5%A4%A7%E9%9B%A8\" title=\"启用更多蛞蝓猫扩展包\"><img alt=\"启用更多蛞蝓猫扩展包\" src=\"https://huiji-public.huijistatic.com/rainworld/uploads/b/b8/MSC_%E5%9B%BE%E6%A0%87.png\" decoding=\"async\" width=\"35\" height=\"17\" data-file-width=\"35\" data-file-height=\"17\" /></a></th><td><a href=\"/index.php?title=%E5%A4%96%E7%BC%98&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"外缘（页面不存在）\">外缘</a>、<a href=\"/index.php?title=%E6%B5%B7%E6%BB%A8%E8%AE%BE%E6%96%BD&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"海滨设施（页面不存在）\">海滨设施</a>、<a href=\"/index.php?title=%E5%A4%A7%E9%83%BD%E4%BC%9A&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"大都会（页面不存在）\">大都会</a></td></tr><tr><th scope=\"row\"><img alt=\"矛大师 图标.png\" src=\"https://huiji-thumb.huijistatic.com/rainworld/uploads/thumb/3/39/%E7%9F%9B%E5%A4%A7%E5%B8%88_%E5%9B%BE%E6%A0%87.png/20px-%E7%9F%9B%E5%A4%A7%E5%B8%88_%E5%9B%BE%E6%A0%87.png\" decoding=\"async\" width=\"20\" height=\"20\" srcset=\"https://huiji-public.huijistatic.com/rainworld/uploads/3/39/%E7%9F%9B%E5%A4%A7%E5%B8%88_%E5%9B%BE%E6%A0%87.png 1.5x\" data-file-width=\"24\" data-file-height=\"24\" /><a href=\"/wiki/%E7%9F%9B%E5%A4%A7%E5%B8%88\" title=\"矛大师\">矛大师</a><a href=\"/wiki/%E9%9B%A8%E4%B8%96%E7%95%8C%EF%BC%9A%E5%80%BE%E7%9B%86%E5%A4%A7%E9%9B%A8\" title=\"启用更多蛞蝓猫扩展包\"><img alt=\"启用更多蛞蝓猫扩展包\" src=\"https://huiji-public.huijistatic.com/rainworld/uploads/b/b8/MSC_%E5%9B%BE%E6%A0%87.png\" decoding=\"async\" width=\"35\" height=\"17\" data-file-width=\"35\" data-file-height=\"17\" /></a></th><td><a href=\"/index.php?title=%E5%A4%96%E7%BC%98&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"外缘（页面不存在）\">外缘</a>、<a href=\"/index.php?title=%E6%B5%B7%E6%BB%A8%E8%AE%BE%E6%96%BD&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"海滨设施（页面不存在）\">海滨设施</a></td></tr><tr><th scope=\"row\"><img alt=\"圣徒 图标.png\" src=\"https://huiji-thumb.huijistatic.com/rainworld/uploads/thumb/2/24/%E5%9C%A3%E5%BE%92_%E5%9B%BE%E6%A0%87.png/20px-%E5%9C%A3%E5%BE%92_%E5%9B%BE%E6%A0%87.png\" decoding=\"async\" width=\"20\" height=\"20\" srcset=\"https://huiji-public.huijistatic.com/rainworld/uploads/2/24/%E5%9C%A3%E5%BE%92_%E5%9B%BE%E6%A0%87.png 1.5x\" data-file-width=\"24\" data-file-height=\"24\" /><a href=\"/wiki/%E5%9C%A3%E5%BE%92\" title=\"圣徒\">圣徒</a><a href=\"/wiki/%E9%9B%A8%E4%B8%96%E7%95%8C%EF%BC%9A%E5%80%BE%E7%9B%86%E5%A4%A7%E9%9B%A8\" title=\"启用更多蛞蝓猫扩展包\"><img alt=\"启用更多蛞蝓猫扩展包\" src=\"https://huiji-public.huijistatic.com/rainworld/uploads/b/b8/MSC_%E5%9B%BE%E6%A0%87.png\" decoding=\"async\" width=\"35\" height=\"17\" data-file-width=\"35\" data-file-height=\"17\" /></a></th><td><a href=\"/index.php?title=%E5%9C%B0%E4%B8%8B%E6%A3%AE%E6%9E%97&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"地下森林（页面不存在）\">地下森林</a>、<a href=\"/index.php?title=%E6%97%A0%E5%A3%B0%E6%9E%84%E9%80%A0&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"无声构造（页面不存在）\">无声构造</a></td></tr></tbody></table></td></tr><tr><td colspan=\"2\" style=\"text-align:center;\">\n<table class=\"rw-infobox-section mw-collapsible mw-collapsed\"><tbody><tr><th colspan=\"2\">夜间区域（倾盆大雨）</th></tr><tr><th scope=\"row\"><img alt=\"僧侣 图标.png\" src=\"https://huiji-thumb.huijistatic.com/rainworld/uploads/thumb/e/e4/%E5%83%A7%E4%BE%A3_%E5%9B%BE%E6%A0%87.png/20px-%E5%83%A7%E4%BE%A3_%E5%9B%BE%E6%A0%87.png\" decoding=\"async\" width=\"20\" height=\"20\" srcset=\"https://huiji-public.huijistatic.com/rainworld/uploads/e/e4/%E5%83%A7%E4%BE%A3_%E5%9B%BE%E6%A0%87.png 1.5x\" data-file-width=\"24\" data-file-height=\"24\" /><a href=\"/wiki/%E5%83%A7%E4%BE%A3\" title=\"僧侣\">僧侣</a>、<img alt=\"求生者 图标.png\" src=\"https://huiji-thumb.huijistatic.com/rainworld/uploads/thumb/f/fb/%E6%B1%82%E7%94%9F%E8%80%85_%E5%9B%BE%E6%A0%87.png/20px-%E6%B1%82%E7%94%9F%E8%80%85_%E5%9B%BE%E6%A0%87.png\" decoding=\"async\" width=\"20\" height=\"20\" srcset=\"https://huiji-public.huijistatic.com/rainworld/uploads/f/fb/%E6%B1%82%E7%94%9F%E8%80%85_%E5%9B%BE%E6%A0%87.png 1.5x\" data-file-width=\"24\" data-file-height=\"24\" /><a href=\"/wiki/%E6%B1%82%E7%94%9F%E8%80%85\" title=\"求生者\">求生者</a>、<img alt=\"饕餮 图标.png\" src=\"https://huiji-thumb.huijistatic.com/rainworld/uploads/thumb/8/80/%E9%A5%95%E9%A4%AE_%E5%9B%BE%E6%A0%87.png/20px-%E9%A5%95%E9%A4%AE_%E5%9B%BE%E6%A0%87.png\" decoding=\"async\" width=\"20\" height=\"20\" srcset=\"https://huiji-public.huijistatic.com/rainworld/uploads/8/80/%E9%A5%95%E9%A4%AE_%E5%9B%BE%E6%A0%87.png 1.5x\" data-file-width=\"24\" data-file-height=\"24\" /><a href=\"/wiki/%E9%A5%95%E9%A4%AE\" title=\"饕餮\">饕餮</a><a href=\"/wiki/%E9%9B%A8%E4%B8%96%E7%95%8C%EF%BC%9A%E5%80%BE%E7%9B%86%E5%A4%A7%E9%9B%A8\" title=\"启用更多蛞蝓猫扩展包\"><img alt=\"启用更多蛞蝓猫扩展包\" src=\"https://huiji-public.huijistatic.com/rainworld/uploads/b/b8/MSC_%E5%9B%BE%E6%A0%87.png\" decoding=\"async\" width=\"35\" height=\"17\" data-file-width=\"35\" data-file-height=\"17\" /></a></th><td><a href=\"/index.php?title=%E5%A4%96%E5%B1%82%E7%A9%BA%E9%97%B4&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"外层空间（页面不存在）\">外层空间</a></td></tr></tbody></table></td></tr><tr><td colspan=\"2\" style=\"text-align:center;\">\n<table class=\"rw-infobox-section mw-collapsible mw-collapsed\"><tbody><tr><th colspan=\"2\">区域进化（倾盆大雨）</th></tr><tr><th scope=\"row\"><img alt=\"求生者 图标.png\" src=\"https://huiji-thumb.huijistatic.com/rainworld/uploads/thumb/f/fb/%E6%B1%82%E7%94%9F%E8%80%85_%E5%9B%BE%E6%A0%87.png/20px-%E6%B1%82%E7%94%9F%E8%80%85_%E5%9B%BE%E6%A0%87.png\" decoding=\"async\" width=\"20\" height=\"20\" srcset=\"https://huiji-public.huijistatic.com/rainworld/uploads/f/fb/%E6%B1%82%E7%94%9F%E8%80%85_%E5%9B%BE%E6%A0%87.png 1.5x\" data-file-width=\"24\" data-file-height=\"24\" /><a href=\"/wiki/%E6%B1%82%E7%94%9F%E8%80%85\" title=\"求生者\">求生者</a>、<img alt=\"饕餮 图标.png\" src=\"https://huiji-thumb.huijistatic.com/rainworld/uploads/thumb/8/80/%E9%A5%95%E9%A4%AE_%E5%9B%BE%E6%A0%87.png/20px-%E9%A5%95%E9%A4%AE_%E5%9B%BE%E6%A0%87.png\" decoding=\"async\" width=\"20\" height=\"20\" srcset=\"https://huiji-public.huijistatic.com/rainworld/uploads/8/80/%E9%A5%95%E9%A4%AE_%E5%9B%BE%E6%A0%87.png 1.5x\" data-file-width=\"24\" data-file-height=\"24\" /><a href=\"/wiki/%E9%A5%95%E9%A4%AE\" title=\"饕餮\">饕餮</a><a href=\"/wiki/%E9%9B%A8%E4%B8%96%E7%95%8C%EF%BC%9A%E5%80%BE%E7%9B%86%E5%A4%A7%E9%9B%A8\" title=\"启用更多蛞蝓猫扩展包\"><img alt=\"启用更多蛞蝓猫扩展包\" src=\"https://huiji-public.huijistatic.com/rainworld/uploads/b/b8/MSC_%E5%9B%BE%E6%A0%87.png\" decoding=\"async\" width=\"35\" height=\"17\" data-file-width=\"35\" data-file-height=\"17\" /></a></th><td><a href=\"/index.php?title=%E7%83%9F%E5%9B%B1%E5%A4%A9%E6%A3%9A&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"烟囱天棚（页面不存在）\">烟囱天棚</a></td></tr><tr><th scope=\"row\"><img alt=\"猎手 图标.png\" src=\"https://huiji-thumb.huijistatic.com/rainworld/uploads/thumb/c/ce/%E7%8C%8E%E6%89%8B_%E5%9B%BE%E6%A0%87.png/20px-%E7%8C%8E%E6%89%8B_%E5%9B%BE%E6%A0%87.png\" decoding=\"async\" width=\"20\" height=\"20\" srcset=\"https://huiji-public.huijistatic.com/rainworld/uploads/c/ce/%E7%8C%8E%E6%89%8B_%E5%9B%BE%E6%A0%87.png 1.5x\" data-file-width=\"24\" data-file-height=\"24\" /><a href=\"/wiki/%E7%8C%8E%E6%89%8B\" title=\"猎手\">猎手</a></th><td><a href=\"/index.php?title=%E5%9E%83%E5%9C%BE%E5%A0%86&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"垃圾堆（页面不存在）\">垃圾堆</a></td></tr></tbody></table></td></tr><tr><td colspan=\"2\" style=\"text-align:center;\">\n<table class=\"rw-infobox-section mw-collapsible mw-collapsed\"><tbody><tr><th colspan=\"2\">区域（观望者）</th></tr><tr><th scope=\"row\"><img alt=\"观望者 图标.png\" src=\"https://huiji-thumb.huijistatic.com/rainworld/uploads/thumb/8/88/%E8%A7%82%E6%9C%9B%E8%80%85_%E5%9B%BE%E6%A0%87.png/20px-%E8%A7%82%E6%9C%9B%E8%80%85_%E5%9B%BE%E6%A0%87.png\" decoding=\"async\" width=\"20\" height=\"20\" srcset=\"https://huiji-public.huijistatic.com/rainworld/uploads/8/88/%E8%A7%82%E6%9C%9B%E8%80%85_%E5%9B%BE%E6%A0%87.png 1.5x\" data-file-width=\"24\" data-file-height=\"24\" /><a href=\"/wiki/%E8%A7%82%E6%9C%9B%E8%80%85\" title=\"观望者\">观望者</a><a href=\"/wiki/%E9%9B%A8%E4%B8%96%E7%95%8C%EF%BC%9A%E8%A7%82%E6%9C%9B%E8%80%85\" title=\"启用观望者\"><img alt=\"启用观望者\" src=\"https://huiji-public.huijistatic.com/rainworld/uploads/e/ea/WTCH_%E5%9B%BE%E6%A0%87.png\" decoding=\"async\" width=\"43\" height=\"17\" data-file-width=\"43\" data-file-height=\"17\" /></a></th><td><a href=\"/index.php?title=%E9%83%8A%E5%8C%BA&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"郊区（页面不存在）\">郊区</a>、<a href=\"/index.php?title=%E5%B7%A5%E4%B8%9A%E5%8C%BA&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"工业区（页面不存在）\">工业区</a>、<a href=\"/index.php?title=%E9%98%B4%E5%BD%B1%E5%9F%8E%E5%A0%A1&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"阴影城堡（页面不存在）\">阴影城堡</a>、<a href=\"/index.php?title=%E7%83%9F%E5%9B%B1%E5%A4%A9%E6%A3%9A&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"烟囱天棚（页面不存在）\">烟囱天棚</a>、<a href=\"/index.php?title=%E7%8F%8A%E7%91%9A%E6%B4%9E%E7%A9%B4&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"珊瑚洞穴（页面不存在）\">珊瑚洞穴</a>、<a href=\"/index.php?title=%E7%83%88%E6%97%A5%E5%B7%B7&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"烈日巷（页面不存在）\">烈日巷</a>、<a href=\"/index.php?title=%E9%94%88%E8%9A%80%E6%AE%8B%E9%AA%B8&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"锈蚀残骸（页面不存在）\">锈蚀残骸</a>、<a href=\"/index.php?title=%E6%9F%B1%E6%9E%97&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"柱林（页面不存在）\">柱林</a>、<a href=\"/index.php?title=%E4%BB%A5%E5%A4%AA%E5%B1%B1%E8%84%8A&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"以太山脊（页面不存在）\">以太山脊</a>、<a href=\"/index.php?title=%E8%A1%A8%E9%9D%A2&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"表面（页面不存在）\">表面</a>、<a href=\"/index.php?title=%E4%B8%8D%E6%AF%9B%E4%B9%8B%E5%9C%B0&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"不毛之地（页面不存在）\">不毛之地</a>、<a href=\"/index.php?title=%E9%9A%90%E8%94%BD%E5%A0%86%E5%B1%82&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"隐蔽堆层（页面不存在）\">隐蔽堆层</a>、<a href=\"/index.php?title=%E9%A3%8E%E6%9A%B4%E6%B5%B7%E5%B2%B8&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"风暴海岸（页面不存在）\">风暴海岸</a>、<a href=\"/index.php?title=%E7%82%8E%E7%83%AD%E6%B2%99%E6%BC%A0&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"炎热沙漠（页面不存在）\">炎热沙漠</a>、<a href=\"/index.php?title=%E4%BF%A1%E5%8F%B7%E5%B0%96%E5%A1%94&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"信号尖塔（页面不存在）\">信号尖塔</a>、<a href=\"/index.php?title=%E8%85%90%E8%87%AD%E5%B9%BD%E8%B0%B7&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"腐臭幽谷（页面不存在）\">腐臭幽谷</a>、<a href=\"/index.php?title=%E8%85%90%E5%8C%96%E5%B7%A5%E5%8E%82&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"腐化工厂（页面不存在）\">腐化工厂</a></td></tr></tbody></table></td></tr><tr><td colspan=\"2\" style=\"text-align:center;\">\n<table class=\"rw-infobox-section mw-collapsible mw-collapsed\"><tbody><tr><th colspan=\"2\">区域进化（观望者）</th></tr><tr><th scope=\"row\"><img alt=\"观望者 图标.png\" src=\"https://huiji-thumb.huijistatic.com/rainworld/uploads/thumb/8/88/%E8%A7%82%E6%9C%9B%E8%80%85_%E5%9B%BE%E6%A0%87.png/20px-%E8%A7%82%E6%9C%9B%E8%80%85_%E5%9B%BE%E6%A0%87.png\" decoding=\"async\" width=\"20\" height=\"20\" srcset=\"https://huiji-public.huijistatic.com/rainworld/uploads/8/88/%E8%A7%82%E6%9C%9B%E8%80%85_%E5%9B%BE%E6%A0%87.png 1.5x\" data-file-width=\"24\" data-file-height=\"24\" /><a href=\"/wiki/%E8%A7%82%E6%9C%9B%E8%80%85\" title=\"观望者\">观望者</a><a href=\"/wiki/%E9%9B%A8%E4%B8%96%E7%95%8C%EF%BC%9A%E8%A7%82%E6%9C%9B%E8%80%85\" title=\"启用观望者\"><img alt=\"启用观望者\" src=\"https://huiji-public.huijistatic.com/rainworld/uploads/e/ea/WTCH_%E5%9B%BE%E6%A0%87.png\" decoding=\"async\" width=\"43\" height=\"17\" data-file-width=\"43\" data-file-height=\"17\" /></a></th><td><a href=\"/index.php?title=%E7%83%9F%E5%9B%B1%E5%A4%A9%E6%A3%9A&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"烟囱天棚（页面不存在）\">烟囱天棚</a></td></tr></tbody></table></td></tr><tr><td colspan=\"2\" style=\"text-align:center;\">\n<table class=\"rw-infobox-section mw-collapsible mw-collapsed\"><tbody><tr><th colspan=\"2\">承伤倍率</th></tr><tr><th scope=\"row\">头部</th><td>13x</td></tr></tbody></table></td></tr></tbody></table>\n\n<!-- \nNewPP limit report\nCached time: 20261108202406\nCache expiry: 86400\nReduced expiry: false\nComplications: [no‐toc‐conversion]\n[SMW] In‐text annotation parser time: 0.001 seconds\nCPU time usage: 0.083 seconds\nReal time usage: 0.135 seconds\nPreprocessor visited node count: 1014/1000000\nPost‐expand include size: 19878/2097152 bytes\nTemplate argument size: 1121/2097152 bytes\nHighest expansion depth: 8/100\nExpensive parser function count: 0/100\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 0/5000000 bytes\nLua time usage: 0.006/7.000 seconds\nLua memory usage: 786762/52428800 bytes\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%   36.036      1 模板:Infobox\n100.00%   36.036      1 -total\n 19.70%    7.101     34 模板:图标\n  5.84%    2.105     10 模板:MSC\n  5.69%    2.050      2 模板:WTCH\n  5.52%    1.990      1 模板:NoDLC\n-->\n</div>",
+    "links": [
+      {
+        "ns": 0,
+        "title": "雨世界：倾盆大雨",
+        "exists": true
+      },
+      {
+        "ns": 0,
+        "title": "雨世界：观望者",
+        "exists": true
+      },
+      {
+        "ns": 0,
+        "title": "僧侣",
+        "exists": true
+      },
+      {
+        "ns": 0,
+        "title": "圣徒",
+        "exists": true
+      },
+      {
+        "ns": 0,
+        "title": "工匠",
+        "exists": true
+      },
+      {
+        "ns": 0,
+        "title": "求生者",
+        "exists": true
+      },
+      {
+        "ns": 0,
+        "title": "猎手",
+        "exists": true
+      },
+      {
+        "ns": 0,
+        "title": "矛大师",
+        "exists": true
+      },
+      {
+        "ns": 0,
+        "title": "蛞蝓猫",
+        "exists": true
+      },
+      {
+        "ns": 0,
+        "title": "观望者",
+        "exists": true
+      },
+      {
+        "ns": 0,
+        "title": "饕餮",
+        "exists": true
+      },
+      {
+        "ns": 0,
+        "title": "行为",
+        "exists": false
+      },
+      {
+        "ns": 0,
+        "title": "生命值",
+        "exists": false
+      },
+      {
+        "ns": 0,
+        "title": "分数",
+        "exists": false
+      },
+      {
+        "ns": 0,
+        "title": "竞技场",
+        "exists": false
+      },
+      {
+        "ns": 0,
+        "title": "怪猫",
+        "exists": false
+      },
+      {
+        "ns": 0,
+        "title": "郊区",
+        "exists": false
+      },
+      {
+        "ns": 0,
+        "title": "工业区",
+        "exists": false
+      },
+      {
+        "ns": 0,
+        "title": "排水系统",
+        "exists": false
+      },
+      {
+        "ns": 0,
+        "title": "垃圾堆",
+        "exists": false
+      },
+      {
+        "ns": 0,
+        "title": "阴影城堡",
+        "exists": false
+      },
+      {
+        "ns": 0,
+        "title": "烟囱天棚",
+        "exists": false
+      },
+      {
+        "ns": 0,
+        "title": "天空群岛",
+        "exists": false
+      },
+      {
+        "ns": 0,
+        "title": "农场阵列",
+        "exists": false
+      },
+      {
+        "ns": 0,
+        "title": "地下",
+        "exists": false
+      },
+      {
+        "ns": 0,
+        "title": "管道堆场",
+        "exists": false
+      },
+      {
+        "ns": 0,
+        "title": "被浸没的巨构建筑",
+        "exists": false
+      },
+      {
+        "ns": 0,
+        "title": "外层空间",
+        "exists": false
+      },
+      {
+        "ns": 0,
+        "title": "海岸线",
+        "exists": false
+      },
+      {
+        "ns": 0,
+        "title": "外缘",
+        "exists": false
+      },
+      {
+        "ns": 0,
+        "title": "海滨设施",
+        "exists": false
+      },
+      {
+        "ns": 0,
+        "title": "大都会",
+        "exists": false
+      },
+      {
+        "ns": 0,
+        "title": "地下森林",
+        "exists": false
+      },
+      {
+        "ns": 0,
+        "title": "无声构造",
+        "exists": false
+      },
+      {
+        "ns": 0,
+        "title": "珊瑚洞穴",
+        "exists": false
+      },
+      {
+        "ns": 0,
+        "title": "烈日巷",
+        "exists": false
+      },
+      {
+        "ns": 0,
+        "title": "锈蚀残骸",
+        "exists": false
+      },
+      {
+        "ns": 0,
+        "title": "柱林",
+        "exists": false
+      },
+      {
+        "ns": 0,
+        "title": "以太山脊",
+        "exists": false
+      },
+      {
+        "ns": 0,
+        "title": "表面",
+        "exists": false
+      },
+      {
+        "ns": 0,
+        "title": "不毛之地",
+        "exists": false
+      },
+      {
+        "ns": 0,
+        "title": "隐蔽堆层",
+        "exists": false
+      },
+      {
+        "ns": 0,
+        "title": "风暴海岸",
+        "exists": false
+      },
+      {
+        "ns": 0,
+        "title": "炎热沙漠",
+        "exists": false
+      },
+      {
+        "ns": 0,
+        "title": "信号尖塔",
+        "exists": false
+      },
+      {
+        "ns": 0,
+        "title": "腐臭幽谷",
+        "exists": false
+      },
+      {
+        "ns": 0,
+        "title": "腐化工厂",
+        "exists": false
+      }
+    ],
+    "images": [
+      "拾荒者_图标.png",
+      "拾荒者信息盒展示.png",
+      "沙盒代币_图标.png",
+      "禁用DLC_图标.png",
+      "蛞蝓猫_图标.png",
+      "MSC_图标.png",
+      "禁用猎手_图标.png",
+      "禁用工匠_图标.png",
+      "满饱食格_图标.png",
+      "猎手_图标.png",
+      "工匠_图标.png",
+      "饕餮_图标.png",
+      "怪猫_图标.png",
+      "矛大师_图标.png",
+      "求生者_图标.png",
+      "僧侣_图标.png",
+      "圣徒_图标.png",
+      "观望者_图标.png",
+      "WTCH_图标.png"
+    ],
+    "modules": [],
+    "modulescripts": [],
+    "modulestyles": []
+  }
+}

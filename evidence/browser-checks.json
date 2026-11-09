@@ -1,0 +1,46 @@
+{
+  "copy": {
+    "matches": true,
+    "staleCopyDisabled": true
+  },
+  "downloadMatches": true,
+  "offline": "ok",
+  "unknownWarnings": [
+    "name：未找到“New Beast”的已知译名（creatures）；保留原文。",
+    "image：未找到“New.png”的已知译名（images）；保留原文。",
+    "behavior：未找到“Uncatalogued”的已知译名（phrases）；保留原文。",
+    "regions：未找到“New Place”的已知译名（regions）；保留原文。"
+  ],
+  "overrideCopyDisabled": true,
+  "overrideOutput": "{{CreatureInfobox\n| name = 新生物\n| image = 新图.png\n| behavior = 待命\n| regions = 新地区-猎手\n| head = 0\n}}",
+  "malformed": {
+    "state": "error",
+    "outputEmpty": true,
+    "copyDisabled": true
+  },
+  "layouts": [
+    {
+      "width": 1365,
+      "scroll": 1365,
+      "columns": "596px 596px"
+    },
+    {
+      "width": 375,
+      "scroll": 375,
+      "columns": "351px"
+    },
+    {
+      "width": 320,
+      "scroll": 320,
+      "columns": "296px"
+    }
+  ],
+  "extensionSmoke": {
+    "method": "Temporary development-server response registers a second instance of the real CreatureInfobox converter; production registry remains one entry.",
+    "secondInitiallyEmpty": true,
+    "secondMappingIsolated": true,
+    "firstOutputRestored": true,
+    "firstDraftRestored": true,
+    "keyboardSwitch": true
+  }
+}

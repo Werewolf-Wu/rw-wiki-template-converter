@@ -1,0 +1,20 @@
+{{CreatureInfobox
+| name = 拾荒者
+| image = 拾荒者信息盒展示.png
+| size = 100x100px
+| icon = 拾荒者
+| codename = Scavenger
+| behavior = 受好感影响
+| health = 1.1
+| idt = 1.65
+| points = 6
+| token = {{图标|沙盒代币|20px|链接=0}} [https://rain-world-downpour-map.github.io/map.html?slugcat=white&region=GW&room=GW_A24 GW_A24]<br>{{NoDLC}}{{图标|蛞蝓猫|20px|链接=0}}任意蛞蝓猫 / {{MSC}}{{图标|禁用猎手|20px|链接=0}}{{图标|禁用工匠|20px|链接=0}}除猎手、工匠外
+| food = 4-猎手<br>4-工匠<br>2-饕餮, 怪猫<br>1/每根针获得1格-矛大师
+| regions = 郊区, 工业区, 排水系统, 垃圾堆, 阴影城堡, 烟囱天棚, 天空群岛, 农场阵列, 地下-蛞蝓猫
+| dpregions = 郊区, 工业区, 排水系统, 垃圾堆, 阴影城堡, 烟囱天棚, 天空群岛, 农场阵列, 地下, 管道堆场, 被浸没的巨构建筑-蛞蝓猫<br>外层空间-求生者, 僧侣<br>海岸线-猎手<br>海岸线, 外层空间-饕餮<br>外缘, 海滨设施, 大都会-工匠<br>外缘, 海滨设施-矛大师<br>地下森林, 无声构造-圣徒
+| nregions = 外层空间-僧侣, 求生者, 饕餮
+| dplregions = 烟囱天棚-求生者, 饕餮<br>垃圾堆-猎手
+| wregions = 郊区, 工业区, 阴影城堡, 烟囱天棚, 珊瑚洞穴, 烈日巷, 锈蚀残骸, 柱林, 以太山脊, 表面, 不毛之地, 隐蔽堆层, 风暴海岸, 炎热沙漠, 信号尖塔, 腐臭幽谷, 腐化工厂-观望者
+| wlregions = 烟囱天棚-观望者
+| head = 13x
+}}

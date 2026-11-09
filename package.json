@@ -1,0 +1,32 @@
+{
+  "name": "rw-wiki-template-converter",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Offline single-file converter for Rain World wiki template calls (CreatureInfobox and Relationships) from English Miraheze syntax to Chinese Huiji wiki interfaces.",
+  "type": "module",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Werewolf-Wu/rw-wiki-template-converter.git"
+  },
+  "homepage": "https://github.com/Werewolf-Wu/rw-wiki-template-converter",
+  "bugs": {
+    "url": "https://github.com/Werewolf-Wu/rw-wiki-template-converter/issues"
+  },
+  "engines": {
+    "node": "^20.19.0 || >=22.12.0"
+  },
+  "scripts": {
+    "dev": "vite --host 127.0.0.1",
+    "build": "tsc --noEmit && vite build",
+    "test": "tsx --test tests/*.test.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@types/node": "24.19.2",
+    "tsx": "4.23.15",
+    "typescript": "5.9.3",
+    "vite": "7.3.7",
+    "vite-plugin-singlefile": "2.3.4"
+  }
+}
