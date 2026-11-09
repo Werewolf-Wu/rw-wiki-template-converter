@@ -16,6 +16,13 @@
 
 ## 实际操作与语义核对
 
+2026-11-09 在自定义域名 <https://www.hao-ming.top/rw-wiki-template-converter/> 上用 Chromium 复测：
+
+- 页面加载后两个页签均显示；CreatureInfobox 示例输出 917 字符，Relationships 示例输出 548 字符，均无未识别项。
+- 点击复制后，系统剪贴板内容与右侧结果一致，状态显示“已复制当前结果”。
+- 页面通过 Cloudflare 代理访问。内联脚本带有 `data-cfasync="false"`，Rocket Loader 未再改写模块脚本；Cloudflare 注入的统计与挑战脚本被页面 CSP 拦截，但不影响转换。
+- 截图证据：`evidence/live-infobox.webp`、`evidence/live-relationships.webp`。
+
 用 Chromium 通过 `file://` 打开生产文件，断网重新加载后：
 
 - CreatureInfobox 和 Relationships 两个页签均可转换，切换后各自输出保留，说明区随页签切换。
@@ -25,9 +32,9 @@
 
 在配套工作区中，将浏览器产生的拾荒者关系代码，以及转换器生成的沙盒迁移片段，交给实际新 Lua 模块；与原英文调用交给冻结的1481模块所得结果比较，两页的所有分组文本完全相同，涵盖关系、权重、条目次序和图标调用。该模块与对照证据不在本仓库内。
 
-本仓库保存的证据在 `evidence/`：`scavenger-*` 为信息框链路的解析与转换快照，`browser-checks.json` 与 `converter-desktop.webp`、`converter-mobile.webp` 为页面操作记录。上述 Relationships Lua 对照所需的工作区与产物未随本仓库分发。
+本仓库保存的证据在 `evidence/`：`scavenger-*` 为信息框链路的解析与转换快照，`browser-checks.json` 与 `converter-desktop.webp`、`converter-mobile.webp` 为页面操作记录，`live-infobox.webp`、`live-relationships.webp` 为自定义域名上的在线验证截图。上述 Relationships Lua 对照所需的工作区与产物未随本仓库分发。
 
-本轮只做一次集中测试和一轮浏览器操作，没有重跑整站样式与所有视口检查。
+本轮集中运行测试一次；浏览器验证包括自定义域名上的在线复测和本地 `file://` 检查。没有重跑整站样式与所有视口检查。
 
 ## 既有信息框证据与边界
 
