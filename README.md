@@ -52,7 +52,7 @@ npm run build
 
 推送到 `main` 后，GitHub Actions 会执行同一组检查，并把 `dist/` 发布到 GitHub Pages。`dist/` 不提交到仓库。
 
-页面通过 Cloudflare 代理访问时，构建会把内联脚本标记为 `data-cfasync="false"`，避免 Rocket Loader 改写模块脚本。Cloudflare 注入的统计或挑战脚本仍会被页面 CSP 拦截；如不需要这些功能，应在 Cloudflare 对该路径关闭 Rocket Loader 与 Web Analytics。
+页面通过 Cloudflare 代理访问时，构建会把内联脚本标记为 `data-cfasync="false"`，避免 Rocket Loader 改写模块脚本。Cloudflare 注入的统计或挑战脚本仍会被页面 CSP 拦截；如不需要这些功能，应在 Cloudflare 对该路径关闭 Rocket Loader 与 Web Analytics。Cloudflare 若缓存 HTML，部署后可能继续提供旧版本；建议对该路径设置 Bypass cache（或很短的 Browser TTL），发布后按单文件 purge。
 
 ## 译名和转换规则放在哪里
 
