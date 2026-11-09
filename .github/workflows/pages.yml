@@ -26,6 +26,9 @@ jobs:
       - run: npm ci
       - run: npm test
       - run: npm run build
+      - name: Check single-file output
+        run: |
+          node -e 'const fs = require("fs"); const html = fs.readFileSync("dist/index.html", "utf8"); for (const marker of ["data-cfasync=\"false\"", "Content-Security-Policy"]) if (!html.includes(marker)) throw new Error("missing " + marker);'
       - uses: actions/configure-pages@v6
       - uses: actions/upload-pages-artifact@v5
         with:

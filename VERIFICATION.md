@@ -19,7 +19,7 @@
 2026-11-09 在自定义域名 <https://www.hao-ming.top/rw-wiki-template-converter/> 上用 Chromium 复测：
 
 - 页面加载后两个页签均显示；CreatureInfobox 示例输出 917 字符，Relationships 示例输出 548 字符，均无未识别项。
-- 点击复制后，系统剪贴板内容与右侧结果一致，状态显示“已复制当前结果”。
+- 点击复制后，状态显示“已复制当前结果”，剪贴板文本与右侧结果内容一致（Windows 剪贴板换行为 CRLF，长度因此多出换行数）。
 - 页面通过 Cloudflare 代理访问。内联脚本带有 `data-cfasync="false"`，Rocket Loader 未再改写模块脚本；Cloudflare 注入的统计与挑战脚本被页面 CSP 拦截，但不影响转换。
 - 截图证据：`evidence/live-infobox.webp`、`evidence/live-relationships.webp`。
 
