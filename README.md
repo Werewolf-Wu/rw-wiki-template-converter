@@ -6,7 +6,7 @@
 
 ## 直接使用
 
-打开本仓库构建生成的 `dist/index.html`，或使用发布页提供的在线版。只需这一个文件，可以离线使用，不需要 Node.js、服务器或维基账号。
+打开本仓库构建生成的 `dist/index.html`，或访问在线版：<https://www.hao-ming.top/rw-wiki-template-converter/>。只需这一个文件，可以离线使用，不需要 Node.js、服务器或维基账号。
 
 1. 选择“CreatureInfobox”或“Relationships”（种间关系）选项卡，将一个完整模板调用粘贴到左侧，点击“转换”。不要粘贴整篇文章。
 2. 检查提示。未收录的名称会保留原文；可在下方填写中文对应，再点击应用。
@@ -49,6 +49,8 @@ npm run build
 构建会先检查 TypeScript，再生成 `dist/index.html`。维护源码，不要直接改构建产物。开发服务器使用本地 HTTP 和热更新连接；生产 HTML 不依赖它，并使用 CSP 禁止网络请求。
 
 推送到 `main` 后，GitHub Actions 会执行同一组检查，并把 `dist/` 发布到 GitHub Pages。`dist/` 不提交到仓库。
+
+页面通过 Cloudflare 代理访问时，构建会把内联脚本标记为 `data-cfasync="false"`，避免 Rocket Loader 改写模块脚本。Cloudflare 注入的统计或挑战脚本仍会被页面 CSP 拦截；如不需要这些功能，应在 Cloudflare 对该路径关闭 Rocket Loader 与 Web Analytics。
 
 ## 译名和转换规则放在哪里
 

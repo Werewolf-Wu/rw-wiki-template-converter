@@ -7,7 +7,7 @@
 集中运行结果：
 
 - `npm test`：39 项测试通过。
-- `npm run build`：TypeScript 检查和 Vite 构建通过，输出单个 `dist/index.html`，46.40 kB。
+- `npm run build`：TypeScript 检查和 Vite 构建通过，输出单个 `dist/index.html`，46.42 kB。
 - 配套中文 Relationships 模块工作区（不包含在本仓库）中，`luajit tests/relationships.lua` 通过：中文输入边界、迁移后的原行为测试和冻结英文模块输出等价检查通过。
 
 关系测试覆盖默认关系、继承、抽象/Pseudo/Fake 条目、五个内容分组、排序、文本与零权重、Unicode 括号、未知/重复生物、歧义映射和旧参数拒绝。转换器还检查中英文参数冲突、临时对应、未知内容保留和中文再次转换。关系测试使用 `tests/fixtures/relationships-data-r813.lua` 对照冻结修订 813，因此无需外部工作区即可复现。

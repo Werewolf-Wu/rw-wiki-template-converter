@@ -16,6 +16,20 @@ export default defineConfig({
         },
       },
     },
+    {
+      // Cloudflare Rocket Loader rewrites module scripts and breaks the inline app.
+      // The attribute is added after vite-plugin-singlefile has inlined the bundle.
+      name: 'cfasync-offline-script',
+      apply: 'build',
+      enforce: 'post',
+      generateBundle(_options, bundle) {
+        for (const file of Object.values(bundle)) {
+          if (file.type !== 'asset' || !file.fileName.endsWith('.html')) continue;
+          const html = typeof file.source === 'string' ? file.source : Buffer.from(file.source).toString('utf8');
+          file.source = html.replace(/<script type="module"/g, '<script type="module" data-cfasync="false"');
+        }
+      },
+    },
   ],
   build: {
     target: 'es2022',
